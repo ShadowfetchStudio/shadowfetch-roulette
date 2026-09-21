@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Shadowfetch Roulette
+GenericName=Roulette
+Comment=European single-zero roulette. Fictional bankroll. No real-money gambling.
+Exec=shadowfetch-roulette
+TryExec=shadowfetch-roulette
+Icon=shadowfetch-roulette
+Terminal=false
+Categories=Game;
+Keywords=roulette;casino;wheel;shadowfetch;
+StartupNotify=true
+StartupWMClass=Shadowfetch Roulette

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1610"/>
+      <stop offset="0.5" stop-color="#0c0b0a"/>
+      <stop offset="1" stop-color="#070708"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4e2a8"/>
+      <stop offset="0.45" stop-color="#c9a24a"/>
+      <stop offset="1" stop-color="#6b4e1c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="38%" cy="32%" r="55%">
+      <stop offset="0" stop-color="#e8c56a" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0c0b0a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ivory" cx="35%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#fff8ee"/>
+      <stop offset="1" stop-color="#c8b39a"/>
+    </radialGradient>
+  </defs>
+  <rect x="36" y="36" width="440" height="440" rx="118" fill="url(#plate)"/>
+  <rect x="36" y="36" width="440" height="440" rx="118" fill="url(#glow)"/>
+  <rect x="48" y="48" width="416" height="416" rx="108" fill="none" stroke="url(#rim)" stroke-width="10"/>
+  <circle cx="256" cy="250" r="148" fill="#101214" stroke="#c9a24a" stroke-width="10"/>
+  <circle cx="256" cy="250" r="128" fill="none" stroke="#2a2318" stroke-width="22"/>
+  <g transform="translate(256 250)">
+    <path d="M0,-118 A118,118 0 0,1 61,-101 L0,0 Z" fill="#8b1c22"/>
+    <path d="M61,-101 A118,118 0 0,1 109,-45 L0,0 Z" fill="#16181c"/>
+    <path d="M109,-45 A118,118 0 0,1 118,10 L0,0 Z" fill="#8b1c22"/>
+    <path d="M118,10 A118,118 0 0,1 92,74 L0,0 Z" fill="#16181c"/>
+    <path d="M92,74 A118,118 0 0,1 36,112 L0,0 Z" fill="#8b1c22"/>
+    <path d="M36,112 A118,118 0 0,1 -36,112 L0,0 Z" fill="#0f3d2a"/>
+    <path d="M-36,112 A118,118 0 0,1 -92,74 L0,0 Z" fill="#16181c"/>
+    <path d="M-92,74 A118,118 0 0,1 -118,10 L0,0 Z" fill="#8b1c22"/>
+    <path d="M-118,10 A118,118 0 0,1 -109,-45 L0,0 Z" fill="#16181c"/>
+    <path d="M-109,-45 A118,118 0 0,1 -61,-101 L0,0 Z" fill="#8b1c22"/>
+    <path d="M-61,-101 A118,118 0 0,1 0,-118 L0,0 Z" fill="#16181c"/>
+  </g>
+  <circle cx="256" cy="250" r="38" fill="#1a140c" stroke="#e8c56a" stroke-width="6"/>
+  <circle cx="256" cy="250" r="16" fill="#c9a24a"/>
+  <circle cx="334" cy="188" r="22" fill="url(#ivory)" stroke="#f4e2a8" stroke-width="3"/>
+  <ellipse cx="326" cy="180" rx="7" ry="5" fill="#fff" opacity="0.55"/>
+</svg>
