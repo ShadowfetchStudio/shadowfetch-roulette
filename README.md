@@ -19,7 +19,7 @@ Sibling to the other Shadowfetch desktop games — same dark, cinematic family, 
 **From Godot (development)**
 
 ```bash
-godot --path "$HOME/src/ShadowfetchRoulette"
+godot --path .
 ```
 
 Desktop launcher name: **Shadowfetch Roulette**  
