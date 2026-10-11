@@ -10,7 +10,7 @@ Sibling to the other Shadowfetch desktop games — same dark, cinematic family, 
 
 ## Download
 
-Get `shadowfetch-roulette-1.0.0-linux-x86_64.tar.gz` from the [latest release](https://github.com/Shadowfetchapps/shadowfetch-roulette/releases/latest) (x86_64 Linux), then:
+Get `shadowfetch-roulette-1.0.0-linux-x86_64.tar.gz` from the [latest release](https://github.com/ShadowfetchStudio/shadowfetch-roulette/releases/latest) (x86_64 Linux), then:
 
 ```bash
 sha256sum -c shadowfetch-roulette-1.0.0-linux-x86_64.tar.gz.sha256
