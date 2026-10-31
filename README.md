@@ -101,3 +101,9 @@ Resolution, fullscreen, vsync, graphics quality, anti-aliasing, shadows, effects
 ## Privacy
 
 No telemetry. No account. Source and docs do not embed personal paths or machine identifiers.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
